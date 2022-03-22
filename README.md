@@ -1,3 +1,7 @@
+# Simple Todo app
+
+Just to demonstrate how to add and delete items from a simple Todo list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
